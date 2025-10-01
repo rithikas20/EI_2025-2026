@@ -9,7 +9,10 @@ This repository contains coding exercises for **Educational Initiatives (Ei) 202
 Below is the screenshot showing the Git commands I used to push my folder from local machine to this repository:
 
 <img width="547" height="70" alt="ss2_1" src="https://github.com/user-attachments/assets/cbfc5fe8-8293-409b-9901-10b93cfe26d0" />
-![ss1](https://github.com/user-attachments/assets/7176546d-69e0-4537-a623-6f9f18f08d49)
+
+![ss1](https://github.com/user-attachments/assets/bde33607-42f2-484a-96c2-5cbb015b4d2a)
+
+
 
 
 
