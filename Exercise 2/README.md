@@ -1,6 +1,6 @@
 # Virtual Classroom System
 
-A terminal-based Virtual Classroom Management System following clean architecture principles similar to the MarsRover project structure.
+A terminal-based Virtual Classroom Management System following clean architecture principles.
 
 ## Project Structure
 
