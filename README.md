@@ -5,7 +5,7 @@
 This repository contains coding exercises for **Educational Initiatives (Ei) 2025–26**.  
 
 
-## 🖼️ Git Push Commands Screenshot
+##  Git Push Commands Screenshot
 Below is the screenshot showing the Git commands I used to push my folder from local machine to this repository:
 
 <img width="547" height="70" alt="ss2_1" src="https://github.com/user-attachments/assets/cbfc5fe8-8293-409b-9901-10b93cfe26d0" />
